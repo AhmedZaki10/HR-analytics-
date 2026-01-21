@@ -1,2 +1,2 @@
 # HR-analytics-
-Analyze Candidates Performance for HR suggesstion.
+Analyze Employee Performance for HR team to analyze their statisfaction and their job needs.
